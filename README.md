@@ -14,15 +14,6 @@
 
 ![line]
 
-## What's new?
-
--   Migrated from Google OAuth 1.0 to 2.0
--   New Database Design Implemented
--   User Avatar/Image appears on Comments
--   Updated User Details reflect on posts and comments
-
-![line]
-
 ## Table of Contents
 
 -   [Introduction](#introduction)
@@ -39,7 +30,7 @@
 
 ## Introduction
 
--   Inspired by anime
+-   Inspired by anime (specially your name or kimi no na wa)
 -   In earlier days people used to maintain diaries.
 -   But those days have changed, but our needs still remain the same.
 -   This is a WebApp helps suffice the need for a digital diary and help improve the user Experience.
@@ -51,12 +42,6 @@
 
 -   Thanks to JS Mastery for this wonderful tutorial.
 -   I have added more refined features on top of this project.
-
-![line]
-
-## Additional Improvements
-
-- [Imporovements](./client/README.md)
 
 ![line]
 
@@ -87,17 +72,5 @@
 ![Customizations](assets/demo.gif)
 
 <!-- ![line]
-
-## Upcomming
-
--   New Database schema -->
-
-![line]
-
-## Designs
-
--    [Entity Relationship Diagram](https://drive.google.com/file/d/1_U648R_8eAd_Q5kThbBbBhMlY6gk5g00/view?usp=sharing)
-
-![line]
 
 [line]: https://user-images.githubusercontent.com/75939390/137615281-3a875960-92cc-407f-97fe-fd2319bdb252.png
