@@ -10,7 +10,7 @@
     </a>
 </div>
 
-# [kioku/Memories](https://memories-pritam.vercel.app)
+# [kioku/Memories](http://localhost:3000/posts)
 
 ![line]
 
@@ -39,7 +39,7 @@
 
 ## Introduction
 
--   
+-   Inspired by anime
 -   In earlier days people used to maintain diaries.
 -   But those days have changed, but our needs still remain the same.
 -   This is a WebApp helps suffice the need for a digital diary and help improve the user Experience.
