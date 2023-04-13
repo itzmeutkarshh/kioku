@@ -10,7 +10,7 @@
     </a>
 </div>
 
-# [Memories](https://memories-pritam.vercel.app)
+# [kioku/Memories](https://memories-pritam.vercel.app)
 
 ![line]
 
@@ -39,6 +39,7 @@
 
 ## Introduction
 
+-   
 -   In earlier days people used to maintain diaries.
 -   But those days have changed, but our needs still remain the same.
 -   This is a WebApp helps suffice the need for a digital diary and help improve the user Experience.
@@ -98,31 +99,5 @@
 -    [Entity Relationship Diagram](https://drive.google.com/file/d/1_U648R_8eAd_Q5kThbBbBhMlY6gk5g00/view?usp=sharing)
 
 ![line]
-
-## Best Contributors 🎭
-
-<div align="center">
-    <a  href="https://github.com/warmachine028/uemcrp/graphs/contributors">
-        <img src="https://contrib.rocks/image?repo=warmachine028/memories" />
-    </a>
-</div>
-
-![line]
-
-## License
-
--   see [LICENSE]
-
-**Pritam, 2023**
-
-[license]: https://github.com/warmachine028/memories/blob/main/LICENSE
-
-![line]
-
-
-### Thank you, everyone! 💚
-
-- [Memories Old](https://memories-old.vercel.app)
-- [Memories Old - Repository](https://github.com/warmachine028/memories/tree/memories-old)
 
 [line]: https://user-images.githubusercontent.com/75939390/137615281-3a875960-92cc-407f-97fe-fd2319bdb252.png
