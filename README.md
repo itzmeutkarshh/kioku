@@ -4,8 +4,6 @@
         <img width=200 src="assets/icon.png" alt="Memories">
     </a>
     <p style="font-family: roboto, calibri; font-size:12pt; font-style:italic"> Cherishing the past with love </p>
-    <a href="https://deepsource.io/gh/warmachine028/memories/?ref=repository-badge">
-        <img src="https://deepsource.io/gh/warmachine028/memories.svg/?label=active+issues&show_trend=true&token=yo-jfXJvA6yZ9Kbag8WQCuj2)](https://deepsource.io/gh/warmachine028/memories/?ref=repository-badge" alt="DeepSource">
     </a>
 </div>
 
