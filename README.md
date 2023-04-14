@@ -1,7 +1,6 @@
     updated: Sunday, 12th March 2023
 
 <div align=center>
-    <a href="https://memories-pritam.vercel.app">
         <img width=200 src="assets/icon.png" alt="Memories">
     </a>
     <p style="font-family: roboto, calibri; font-size:12pt; font-style:italic"> Cherishing the past with love </p>
