@@ -14,11 +14,10 @@
 
 ## Introduction
 
--   Inspired by anime (specially your name or kimi no na wa)
+-   The Anime [Kimi no Na wa](https://en.wikipedia.org/wiki/Your_Name) gave me inspiration to make this project .
 -   In earlier days people used to maintain diaries.
 -   But those days have changed, but our needs still remain the same.
 -   This is a WebApp helps suffice the need for a digital diary and help improve the user Experience.
--   The Anime [Kimi no Na wa](https://en.wikipedia.org/wiki/Your_Name) gave me inspiration to improve this project every bit.
 
 ## Tech Stack Used
 
