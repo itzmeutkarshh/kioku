@@ -12,22 +12,6 @@
 
 # [kioku/Memories](http://localhost:3000/posts)
 
-![line]
-
-## Table of Contents
-
--   [Introduction](#introduction)
--   [Acknowledgement](#acknowledgement)
--   [Additional Improvements](#additional-improvements)
--   [Tech Stack Used](#tech-stack-used)
--   [Preview](#preview)
--   [Demo](#demo)
--   [Designs](#designs)
--   [License](#license)
--   [Best Contributors](#best-contributors)
-
-![line]
-
 ## Introduction
 
 -   Inspired by anime (specially your name or kimi no na wa)
@@ -35,15 +19,6 @@
 -   But those days have changed, but our needs still remain the same.
 -   This is a WebApp helps suffice the need for a digital diary and help improve the user Experience.
 -   The Anime [Kimi no Na wa](https://en.wikipedia.org/wiki/Your_Name) gave me inspiration to improve this project every bit.
-
-![line]
-
-## Acknowledgement
-
--   Thanks to JS Mastery for this wonderful tutorial.
--   I have added more refined features on top of this project.
-
-![line]
 
 ## Tech Stack Used
 
@@ -59,7 +34,6 @@
 ![Node JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![JWT](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-![line]
 
 ## Preview
 
@@ -67,9 +41,6 @@
 
 ![line]
 
-## Demo
-
-![Customizations](assets/demo.gif)
 
 <!-- ![line]
 
