@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const apiURL = ['https://memories-pritam-server.vercel.app', 'http://localhost:5000']
+const apiURL = ['http://localhost:5000']
 const API = axios.create({ baseURL: apiURL[0] })
 
 API.interceptors.request.use((req) => {
